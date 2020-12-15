@@ -4,7 +4,7 @@
 
 This website includes the essential resources for our AAAI-21 paper: 
 
-Wenqiang Lei, Yisong Miao, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chua and Nancy Chen (2021) Have We Solved The Hard Problem? It’s Not Easy! Contextual Lexical Contrast as a Means to Probe Neural Coherence (AAAI ‘21)
+Wenqiang Lei, Yisong Miao, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chua and Nancy Chen (2021) **Have We Solved The Hard Problem? It’s Not Easy! Contextual Lexical Contrast as a Means to Probe Neural Coherence** (AAAI ‘21)
 
 ## 2. PDFs
 - Paper for virtual presentation for AAAI in Feb 2021 (PDF) [To Come]()
@@ -19,7 +19,9 @@ Current version of the corpus is in `csv` format. Each line indicates one token 
 | ------- | ------ | ------------------------------------------------------------ | ----- |
 | gold    | silver | December delivery **gold** fell $3.20 an ounce to $377.60.December **silver** declined 6.50 cents an ounce to $5.2180. | 0     |
 | plant   | animal | One technique developed by some of these companies involves a chemical spray supposed to kill only a plant's pollen.But there have been problems with chemical sprays damaging **plants**' female reproductive organs and concern for the toxicity of such chemical sprays to humans, **animals** and beneficial insects. | 0     |
+| kill    | save   | Some FAA officials note that few infants have been **killed** in plane crashes, raising the question of whether safety seats really are needed.A 1981 Harvard Medical School study that scrutinized accidents in the late 1970s concluded that perhaps three babies would have been **saved** in a five-year period if safety-seat use had been required. | 1     |
 | current | old    | Under the agreement with the House and Senate leaders, the minimum wage would rise from the **current** $3.35 an hour to $4.25 an hour by April 1991.Employers could also pay a subminimum "training wage" for 90 days to new workers who are up to 19 years **old**, and then for another 90 days if the company institutes a specific training program for the newcomers. | 0     |
+| quick   | slow   | Resistance to a national language comes primarily from members of the country's elite, who generally prefer English.But while better-off Filipinos are quick to cite the logic in using a language as widespread as English, they are often slow to reveal that they are prejudiced against Filipino, say advocates of the native language. "For the middle and upper-middle class {Filipino} is declasse," says Bien Lumbera, a Philippine-studies professor at Quezon City's University of the Philippines. | 1     |
 
 Sample** to download: [Available here](files/cont2lex-samples.csv)
 
@@ -28,6 +30,8 @@ Sample** to download: [Available here](files/cont2lex-samples.csv)
 
 
 ### 3.2 Details
+
+**Problem Definition**: Contextual Lexical Contrast (CLC): Two words are understood as contrast in order to understand the coherence of context. 
 
 **Corpus Statistics:**
 
@@ -43,17 +47,20 @@ Cont2Lex Corpus contains 6,316 tokens, each of them is constituted of a context,
 
 We also report the count and positive ratio w.r.t. different POS:
 
-Noun: 2,413, 33.2%
-
-Verb: 1,568, 27.9%
-
-Adj: 2,081 43.7%
-
-Adv: 254 40.9%
-
-Total 6,316 35.7
+| POS   | #     | Positive Ratio |
+| ----- | ----- | -------------- |
+| Noun  | 2,413 | 33.2%          |
+| Verb  | 1,568 | 27.9%          |
+| Adj   | 2,081 | 43.7%          |
+| Adv   | 254   | 40.9%          |
+| Total | 6,316 | 35.7%          |
 
 We can find that adj and adv have relatively higher PRs, this is in line with linguistic theory: the semantic dimensions of adj and adv are more focused. 
 
 
 
+## 4. Code and Benchmarks
+
+We provide the PyTorch implementation of our benchmark, including CLC benchmarks and out-of-context Lexical Contrast benchmarks. 
+
+Coming soon.
