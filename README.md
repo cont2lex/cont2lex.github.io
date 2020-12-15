@@ -2,7 +2,7 @@
 
 ## 1. Intro
 
-This website includes the essential resources for our AAAI-21 paper: 
+This website stores the essential resources for our AAAI-21 paper: 
 
 Wenqiang Lei, Yisong Miao, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chua and Nancy Chen (2021) **Have We Solved The Hard Problem? It’s Not Easy! Contextual Lexical Contrast as a Means to Probe Neural Coherence** (AAAI ‘21)
 
