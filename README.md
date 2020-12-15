@@ -1,3 +1,3 @@
-#cont2lex.github.io
+#Website for Cont2Lex
 
 ## Intro
