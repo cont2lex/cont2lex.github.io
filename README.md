@@ -7,9 +7,9 @@ This website stores the essential resources for our AAAI-21 paper:
 Wenqiang Lei, Yisong Miao, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chua and Nancy Chen (2021) **Have We Solved The Hard Problem? It’s Not Easy! Contextual Lexical Contrast as a Means to Probe Neural Coherence** (AAAI ‘21)
 
 ## 2. PDFs
-- Paper for virtual presentation for AAAI in Feb 2021 (PDF) [To Come]()
+- Paper for virtual presentation for AAAI in Feb 2021 (PDF) [Local Copy (PDF)](files/8523.LeiW.pdf)
 - Slides (PDF) [To Come]()
-- Poster (PDF) [To Come]()
+- Poster (PDF) [Local Copy](files/WenqiangLei_NUS_Cont2Lex_Poster_v2.pdf) [BAAI AAAI-Beijing Meetup (PDF)](https://hub-cache.baai.ac.cn/hub-pdf/20201218/2/13-WenqiangLei_NUS_Cont2Lex_Poster.pdf) 
 
 ## 3. Cont2Lex Corpus
 ### 3.1 Quick Dive-In
