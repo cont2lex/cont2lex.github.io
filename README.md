@@ -25,7 +25,9 @@ Current version of the corpus is in `csv` format. Each line indicates one token 
 
 Sample** to download: [Available here](files/cont2lex-samples.csv)
 
-** We thank one anonymous reviewer's comment that we should indicate the offset of w1 and w2, so that we can avoid the duplication of w1 and w2 in one sentence. The full version will be made public when this issue is addressed.
+** We thank one anonymous reviewer's comment that we should indicate the offset of w1 and w2, so that we can avoid the duplication of w1 and w2 in one sentence. The full version will be made public when this issue is addressed. (very soon in Feb!)
+
+Contact: Please contact Yisong with miaoyisong@gmail.com if you want a corpus leaving that issue unsolved. Thanks! 
 
 
 
