@@ -13,7 +13,7 @@ Wenqiang Lei, Yisong Miao, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chu
 
 
 
-[Update on 8th Feb]: Yisong (the second author) has a substantial "one more thing" for this work, it may possibly lead to another paper. He will blog about it first in next few week. Stay tuned guys!
+[Update on 8th Feb]: Our team has a substantial "one more thing" for this work, it may possibly lead to another paper. We will blog about it first in next few week. Stay tuned guys!
 
 
 
