@@ -11,6 +11,12 @@ Wenqiang Lei, Yisong Miao, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chu
 - Slides (PDF) [To Come]()
 - Poster (PDF) [Local Copy](files/WenqiangLei_NUS_Cont2Lex_Poster_v2.pdf) [BAAI AAAI-Beijing Meetup (PDF)](https://hub-cache.baai.ac.cn/hub-pdf/20201218/2/13-WenqiangLei_NUS_Cont2Lex_Poster.pdf) 
 
+
+
+[Update on 8th Feb]: We have a substantial "one more thing" for this work, it may possibly lead to another paper. We will blog about it first in next few week. Stay tuned guys!
+
+
+
 ## 3. Cont2Lex Corpus
 ### 3.1 Quick Dive-In
 Current version of the corpus is in `csv` format. Each line indicates one token of our corpus. Each token is constituted of w1, w2, context and a binary label indicating weather CLC holds. 
