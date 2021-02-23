@@ -8,7 +8,7 @@ Wenqiang Lei, Yisong Miao, Runpeng Xie, Bonnie Webber, Meichun Liu, Tat-Seng Chu
 
 ## 2. PDFs
 - Paper for virtual presentation for AAAI in Feb 2021 (PDF) [Local Copy (PDF)](files/8523.LeiW.pdf)
-- Slides (PDF) [To Come]()
+- Slides (PDF) [Local Copy](files/cont2lex-slides-20min.pdf)
 - Poster (PDF) [Local Copy](files/WenqiangLei_NUS_Cont2Lex_Poster_v2.pdf) [BAAI AAAI-Beijing Meetup (PDF)](https://hub-cache.baai.ac.cn/hub-pdf/20201218/2/13-WenqiangLei_NUS_Cont2Lex_Poster.pdf) 
 
 
